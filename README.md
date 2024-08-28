@@ -28,7 +28,7 @@ The design focuses on creating an engaging, aesthetically pleasing experience us
 - Image Processing: Apply different effects to the image including:
   - Blur
   - Sharpen
-  - Add watermark (at user-specified position)
+  - Add watermark (as per user-specified)
 - Real-time Feedback: As effects are applied, users can see changes instantly.
 - Reset Option: Users can reset the image to its original state at any point.
 - Download: After processing, users can download the image with their applied effects.
